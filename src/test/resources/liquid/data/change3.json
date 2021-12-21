@@ -5,7 +5,7 @@
     {
       "operation": "delete",
       "deleteFilter": "{\"key\":\"coffee\",\"createdBy\":\"Jorge\"}",
-      "objectType": "com.five9.test.object.Variable"
+      "objectType": "com.test.object.Variable"
     }
   ]
 }
