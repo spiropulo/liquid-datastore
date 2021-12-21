@@ -1,0 +1,58 @@
+{
+  "author": "Jorge",
+  "description": "first pass at the data",
+  "objects": [
+    {
+      "operation": "insert",
+      "objectType": "Variable",
+      "payload": [
+        {
+          "fieldName": "key",
+          "fieldValue": "tea",
+          "dataType": "string"
+        },
+        {
+          "fieldName": "value",
+          "fieldValue": "black",
+          "dataType": "string"
+        },
+        {
+          "fieldName": "createdBy",
+          "fieldValue": "Jorge",
+          "dataType": "string"
+        },
+        {
+          "fieldName": "updatedBy",
+          "fieldValue": "Jorge",
+          "dataType": "string"
+        }
+      ]
+    },
+    {
+      "operation": "insert",
+      "objectType": "Variable",
+      "payload": [
+        {
+          "fieldName": "key",
+          "fieldValue": "coffee",
+          "dataType": "string"
+        },
+        {
+          "fieldName": "value",
+          "fieldValue": "brown",
+          "dataType": "string"
+        },
+        {
+          "fieldName": "createdBy",
+          "fieldValue": "Jorge",
+          "dataType": "string"
+        },
+        {
+          "fieldName": "updatedBy",
+          "fieldValue": "Jorge",
+          "dataType": "string"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "author": "Sofia",
+  "description": "second pass of the data",
+  "objects": [
+    {
+      "operation": "update",
+      "updateFilter": "key=tea,value=black",
+      "objectType": "Variable",
+      "payload": [
+        {
+          "fieldName": "key",
+          "fieldValue": "tea",
+          "dataType": "string"
+        },
+        {
+          "fieldName": "value",
+          "fieldValue": "yellow",
+          "dataType": "string"
+        },
+        {
+          "fieldName": "createdBy",
+          "fieldValue": "Sofia",
+          "dataType": "string"
+        },
+        {
+          "fieldName": "updatedBy",
+          "fieldValue": "Sofia",
+          "dataType": "string"
+        }
+      ]
+    }
+  ]
+}

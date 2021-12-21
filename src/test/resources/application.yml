@@ -1,0 +1,4 @@
+liquidData: "liquid/data"
+changelog: "liquid/dbchangelog.json"
+projectId: "vcc-sandbox-291721"
+namespace: "liquid"

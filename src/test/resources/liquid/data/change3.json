@@ -1,0 +1,11 @@
+{
+  "author": "Teo",
+  "description": "third pass of the data",
+  "objects": [
+    {
+      "operation": "delete",
+      "deleteFilter": "{\"key\":\"coffee\",\"createdBy\":\"Jorge\"}",
+      "objectType": "com.five9.test.object.Variable"
+    }
+  ]
+}
